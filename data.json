@@ -1,0 +1,63 @@
+[
+    {
+      "firstName": "Patrick",
+      "lastName": "Layman",
+      "sex": "Male",
+      "height": "199cm",
+      "ethnicity": "White",
+      "birthday": "04/10/2000",
+      "maritalStatus": "Engaged",
+      "jobTitle": "Software Developer",
+      "salary": 85000,
+      "address": "81 Commonwealth Avenue"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "sex": "Female",
+      "height": "168cm",
+      "ethnicity": "Black",
+      "birthday": "08/15/1995",
+      "maritalStatus": "Single",
+      "jobTitle": "Data Scientist",
+      "salary": 105000,
+      "address": "123 Elm Street"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "sex": "Male",
+      "height": "180cm",
+      "ethnicity": "Asian",
+      "birthday": "12/02/1988",
+      "maritalStatus": "Married",
+      "jobTitle": "Product Manager",
+      "salary": 120000,
+      "address": "456 Oak Avenue"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "sex": "Female",
+      "height": "172cm",
+      "ethnicity": "Hispanic",
+      "birthday": "06/20/1992",
+      "maritalStatus": "Single",
+      "jobTitle": "UX Designer",
+      "salary": 95000,
+      "address": "789 Pine Road"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "sex": "Male",
+      "height": "185cm",
+      "ethnicity": "Mixed",
+      "birthday": "03/05/1985",
+      "maritalStatus": "Divorced",
+      "jobTitle": "Marketing Manager",
+      "salary": 110000,
+      "address": "555 Maple Lane"
+    }
+  ]
+  
